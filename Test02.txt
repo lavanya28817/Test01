@@ -1,3 +1,6 @@
 This is my first git demo test
-test modif
+test modification
+<<<<<<< HEAD
 modified by dev2
+=======
+>>>>>>> dev1
