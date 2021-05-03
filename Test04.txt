@@ -1,7 +1,13 @@
 
+<<<<<<< HEAD
 
 =======
 msg2klavanya@gmail.com
 is my personal and official gmail.id
+=======
+msg2lavanya@gmail.com
+is my official gmail.id
+=======
+>>>>>>> b61400a300fa8ad930cb4d528794ac745b1225b3
 
 
